@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ProjectEuler": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
