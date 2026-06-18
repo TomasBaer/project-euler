@@ -2,7 +2,7 @@ namespace ProjectEuler.Problems;
 
 public interface IProblem
 {
-    int Limit { get; }
+    long Limit { get; }
 
     string Question { get; }
 

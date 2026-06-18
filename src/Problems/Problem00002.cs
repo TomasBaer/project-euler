@@ -2,7 +2,7 @@
 
 public class Problem00002 : IProblem
 {
-    public int Limit => 4_000_000;
+    public long Limit => 4_000_000;
 
     public string Question => $"By considering the terms in the Fibonacci sequence whose values do not exceed {Limit}, find the sum of the even - valued terms.";
 

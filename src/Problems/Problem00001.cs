@@ -2,7 +2,7 @@
 
 public class Problem00001 : IProblem
 {
-    public int Limit => 1_000;
+    public long Limit => 1_000;
 
     public string Question => $"Find the sum of all the multiples of 3 or 5 below {Limit}.";
 

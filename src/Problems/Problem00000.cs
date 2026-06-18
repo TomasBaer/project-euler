@@ -2,7 +2,7 @@ namespace ProjectEuler.Problems;
 
 public class Problem00000 : IProblem
 {
-    public int Limit => 245_000;
+    public long Limit => 245_000;
 
     public string Question => $"Among the first {Limit} square numbers, what is the sum of all the odd squares?";
 
